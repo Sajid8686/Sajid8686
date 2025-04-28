@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Rehman Ali</h1>
-<h3 align="center">A passionate software engineer🧑‍💻</h3>
+<h1 align="center">Hi 👋, I'm Sajid Hussain</h1>
+<h3 align="center">A passionate Software Engineer🧑‍💻</h3>
 <img align="right" alt = "coding" width = "400px" src = "https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rehmeee&label=Profile%20views&color=0e75b6&style=flat" alt="rehmeee" /> </p>
@@ -10,14 +10,14 @@
 
 - 👯 I’m looking to collaborate on *Web Development Projects*
 
-- 📫 How to reach me *chrehmanali5@gmail.com*
+- 📫 How to reach me *sajidhussains.dev@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rehman-ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rehman-ali" height="30" width="40" /></a>
-<a href="https://instagram.com/itz..maan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itz..maan" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/rehman258" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rehman258" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rehmeee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rehmeee" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sajidhussain6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sajid Hussain" height="30" width="40" /></a>
+<!-- <a href="https://instagram.com/itz..maan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itz..maan" height="30" width="40" /></a> -->
+<!-- <a href="https://www.codechef.com/users/rehman258" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rehman258" height="30" width="40" /></a> -->
+<a href="https://leetcode.com/u/sajid86/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rehmeee" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
